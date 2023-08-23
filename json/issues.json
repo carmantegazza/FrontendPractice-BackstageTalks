@@ -1,0 +1,50 @@
+[{
+        "issue": 7,
+        "image": "https://backstagetalks.com/img/backstagetalks_cover_issue_7.png",
+        "image-alt" : "Portada Issue 7",
+        "color": "#ff608c",
+        "disponibilidad": true
+    },
+    {
+        "issue": 6,
+        "image": "https://backstagetalks.com/img/backstagetalks_cover_issue_6.png",
+        "image-alt" : "Portada Issue 6",
+        "color": "#ffffff",
+        "disponibilidad": true
+    },
+    {
+        "issue": 5,
+        "image": "https://backstagetalks.com/img/backstagetalks_cover_issue_5.png",
+        "image-alt" : "Portada Issue 5",
+        "color": "#00c1b5",
+        "disponibilidad": true
+    },
+    {
+        "issue": 4,
+        "image": "https://backstagetalks.com/img/backstagetalks_cover_issue_4.png",
+        "image-alt" : "Portada Issue 4",
+        "color": "#ff651a",
+        "disponibilidad": false
+    },
+    {
+        "issue": 3,
+        "image": "https://backstagetalks.com/img/backstagetalks_cover_issue_3.png",
+        "image-alt" : "Portada Issue 3",
+        "color": "#ffbe00",
+        "disponibilidad": true
+    },
+    {
+        "issue": 2,
+        "image": "https://backstagetalks.com/img/backstagetalks_cover2017.png",
+        "image-alt" : "Portada Issue 2",
+        "color": "##1d3fbb",
+        "disponibilidad": true
+    },
+    {
+        "issue": 1,
+        "image": "https://backstagetalks.com/img/backstagetalks_cover2016.png",
+        "image-alt" : "Portada Issue 1",
+        "color": "#e30512",
+        "disponibilidad": false
+    }
+]
